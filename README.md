@@ -147,7 +147,7 @@ frontend/
 
 ## Live Demo
 
-Live URL:repository-ai-assistant.vercel.app 
+Live URL: repository-ai-assistant.vercel.app 
 
 ---
 
