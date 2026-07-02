@@ -145,6 +145,12 @@ frontend/
 
 ---
 
+## Live Demo
+
+Live URL:repository-ai-assistant.vercel.app 
+
+---
+
 ## 👩‍💻 Author
 
 Harini PM
