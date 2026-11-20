@@ -43,6 +43,7 @@ AI-powered Repository Assistant that helps developers understand any codebase us
 ![Architecture](screenshots/architecture.png)
 
 ---
+<img width="1000" height="667" alt="image" src="https://github.com/user-attachments/assets/4468166f-63f8-48c9-af08-acafd31d03e7" />
 
 ## 📸 Screenshots
 
