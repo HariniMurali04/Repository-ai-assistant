@@ -45,6 +45,9 @@ AI-powered Repository Assistant that helps developers understand any codebase us
 ---
 <img width="1000" height="667" alt="image" src="https://github.com/user-attachments/assets/4468166f-63f8-48c9-af08-acafd31d03e7" />
 
+
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/ce850d3a-8cec-458f-9272-f6be09723f59" />
+
 ## 📸 Screenshots
 
 
